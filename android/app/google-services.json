@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336866354359",
+    "project_id": "flutter-calling-app",
+    "storage_bucket": "flutter-calling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336866354359:android:ea4a44e8f410176af01932",
+        "android_client_info": {
+          "package_name": "com.example.flutter_calling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336866354359-abq5c1aafs67ic03p06ags0cpi8btgr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPpn5oaSNWHRSDbUfgj1Z9uXYERAM4TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336866354359-abq5c1aafs67ic03p06ags0cpi8btgr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
